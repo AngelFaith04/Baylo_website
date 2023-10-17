@@ -1,5 +1,5 @@
-# Baylo_website
-A barter system
+# BayloBarter
+BayloBarter is a platform where people may exchange products with one another. It is a safe and secure transaction platform that promotes a community of passionate people about sustainability and waste reduction.
 ![GROUP-2_page-0006](https://github.com/AngelFaith04/Baylo_website/assets/146556088/4f8928ae-1c2d-4f46-961b-b6f6fb8b2334)
 ![GROUP-2_page-0007](https://github.com/AngelFaith04/Baylo_website/assets/146556088/208de7a4-134a-4f7c-8077-a39c3fa4bd15)
 ![GROUP-2_page-0008](https://github.com/AngelFaith04/Baylo_website/assets/146556088/aabb9d65-6bcd-4968-88d9-ee9e05b7ea8d)
